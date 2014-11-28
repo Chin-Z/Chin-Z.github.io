@@ -1,0 +1,18 @@
+        <!-- Post start -->
+        <div class="row">
+          <div class="col-xs-12 col-sm-2 container time">
+            <div class="jumbotron">
+              <p>{{ post.date | date: "%Y" }}</p>
+              <h3>{{ post.date | date: "%m.%d" }}</h3>
+            </div>
+          </div>
+          <div class="col-xs-12 col-sm-10 container">
+            <div class="jumbotron">
+              <h3>{{ post.title }}</h3>
+              <p>{{ post.content | split:'<!--more-->' | first }}</p>
+              <p>...</p>
+              <p class="align-right"><a class="btn btn-primary btn-sm" role="button" href="{{ post.url }}">阅读全文</a></p>
+            </div><!--/.jumbotron-->
+          </div><!--/.container-->
+        </div><!--/.row-->
+        <!-- Post end -->

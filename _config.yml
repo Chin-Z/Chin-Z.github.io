@@ -1,0 +1,7 @@
+baseurl: /
+pygments: true
+title: LovewuChin
+paginate: 5
+disqus_shortname: chin-z
+paginate_path: "page:num"
+markdown: rdiscount
