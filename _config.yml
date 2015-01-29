@@ -1,7 +1,7 @@
 baseurl: /
 url: http://Chin-Z.github.io
 pygments: true
-title: LovewuChin
+title: CyuuniInfinite
 paginate: 5
 disqus_shortname: chin-z
 paginate_path: "page:num"
