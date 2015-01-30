@@ -2,12 +2,18 @@
 layout: default
 title: 补番计划
 ---
+#追:
+
+* 夏目友人账
+* 银魂
 
 #Level 5:
 
-* 某科学的超电磁炮S(DOING)
-* FATE/STAY NIGHT UBW
+* 某科学的超电磁炮S(DONE)
+* FATE/STAY NIGHT UBW (DOING)
 * FATE/STAY NIGHT
+* 魔法禁书目录
+* 未来日记
 
 #Level 4:
 
