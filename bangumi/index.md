@@ -10,7 +10,7 @@ title: 补番计划
 #Level 5:
 
 * 某科学的超电磁炮S(DONE)
-* FATE/STAY NIGHT UBW (DOING)
+* FATE/STAY NIGHT UBW (2015.2.5 DONE)
 * FATE/STAY NIGHT
 * 魔法禁书目录
 * 未来日记
