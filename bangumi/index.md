@@ -13,12 +13,12 @@ title: 补番计划
 * FATE/STAY NIGHT UBW (2015.2.5 DONE)
 * FATE/STAY NIGHT
 * 魔法禁书目录
-* 未来日记
+* 未来日记(DONE)
 
 #Level 4:
 
 * 龙与虎
-* 刀剑神域幽灵子弹
+* 刀剑神域幽灵子弹(DONE)
 * 斩赤红之瞳
 * 境界的彼方
 * 秒速5厘米
